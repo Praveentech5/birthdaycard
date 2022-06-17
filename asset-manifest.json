@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/birthdaycard/static/css/main.8bee4867.css",
+    "main.js": "/birthdaycard/static/js/main.94edcc7f.js",
+    "index.html": "/birthdaycard/index.html",
+    "main.8bee4867.css.map": "/birthdaycard/static/css/main.8bee4867.css.map",
+    "main.94edcc7f.js.map": "/birthdaycard/static/js/main.94edcc7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bee4867.css",
+    "static/js/main.94edcc7f.js"
+  ]
+}
